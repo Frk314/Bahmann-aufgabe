@@ -1,0 +1,266 @@
+
+{
+    "providers": [
+        {
+        "id": "berlin-001",
+        "name": "Bioscientia Berlin-Marzahn (Direktlabor)",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Mehrower Allee 22",
+            "postal_code": "12687",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.565000,
+            "lng": 13.557000
+        },
+        "contact": {
+            "phone": "+49 30 48526-128",
+            "website": null
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": false,
+            "amount_eur": null,
+            "note": null
+        },
+        "source_url": "https://www.labguide.de/labore/berlin"
+        },
+        {
+        "id": "berlin-002",
+        "name": "Bioscientia Berlin-Tiergarten (Direktlabor)",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Lützowstraße 24-26",
+            "postal_code": "10785",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.503000,
+            "lng": 13.358000
+        },
+        "contact": {
+            "phone": "+49 30 485261-36",
+            "website": null
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": false,
+            "amount_eur": null,
+            "note": null
+        },
+        "source_url": "https://www.labguide.de/labore/berlin"
+        },
+        {
+        "id": "berlin-003",
+        "name": "Institut für Medizinische Diagnostik Berlin (IMD Berlin)",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Nicolaistraße 22",
+            "postal_code": "12247",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.438000,
+            "lng": 13.351000
+        },
+        "contact": {
+            "phone": "+49 30 77001-220",
+            "website": "https://www.imd-berlin.de/"
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": true,
+            "amount_eur": null,
+            "note": "Les tarifs dépendent des analyses demandées."
+        },
+        "source_url": "https://www.imd-berlin.de/fuer-patienten/faq"
+        },
+        {
+        "id": "berlin-004",
+        "name": "Labor 28 MVZ GmbH",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Mecklenburgische Straße 28",
+            "postal_code": "14197",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.478000,
+            "lng": 13.312000
+        },
+        "contact": {
+            "phone": "+49 30 82093-0",
+            "website": "https://www.labor28.de/"
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": true,
+            "amount_eur": null,
+            "note": "Tarifs individuels disponibles sur la liste de prix officielle."
+        },
+        "source_url": "https://www.labor28.de/fuer-patienten/"
+        },
+        {
+        "id": "berlin-005",
+        "name": "MDI Limbach Berlin",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Aroser Allee 84",
+            "postal_code": "13407",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.571000,
+            "lng": 13.357000
+        },
+        "contact": {
+            "phone": "+49 30 4580080",
+            "website": null
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": false,
+            "amount_eur": null,
+            "note": null
+        },
+        "source_url": "https://www.labguide.de/labore/berlin"
+        },
+        {
+        "id": "berlin-006",
+        "name": "Mein Labor Berlin (Charité/Vivantes)",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Sylter Straße 2",
+            "postal_code": "13353",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.548000,
+            "lng": 13.354000
+        },
+        "contact": {
+            "phone": "+49 30 405026-0",
+            "website": "https://www.laborberlin.com/"
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": true,
+            "amount_eur": null,
+            "note": "Les prix dépendent du bilan choisi."
+        },
+        "source_url": "https://www.laborberlin.com/unsere-leistungen/leistungsverzeichnis/"
+        },
+        {
+        "id": "berlin-007",
+        "name": "SYNLAB Berlin-Friedrichshain",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": "Gubener Straße 39",
+            "postal_code": "10243",
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.514000,
+            "lng": 13.444000
+        },
+        "contact": {
+            "phone": "+49 30 726267-0",
+            "website": null
+        },
+        "self_pay": null,
+        "prices": {
+            "publicly_available": false,
+            "amount_eur": null,
+            "note": "La possibilité de réaliser des analyses directement sans ordonnance doit être confirmée auprès du site."
+        },
+        "source_url": "https://www.labguide.de/labore/berlin"
+        },
+        {
+        "id": "berlin-008",
+        "name": "Out of Seven",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": null,
+            "postal_code": null,
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.489000,
+            "lng": 13.435000
+        },
+        "contact": {
+            "phone": null,
+            "website": "https://outofseven.de/leistungen/blutdiagnostik-berlin/"
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": false,
+            "amount_eur": null,
+            "note": "Les analyses sont proposées sans ordonnance comme prestations à la charge du patient."
+        },
+        "source_url": "https://outofseven.de/leistungen/blutdiagnostik-berlin/"
+        },
+        {
+        "id": "berlin-009",
+        "name": "Policum Berlin",
+        "category": "Blood Test",
+        "services": [
+            "blood_test_self_pay"
+        ],
+        "address": {
+            "street": null,
+            "postal_code": null,
+            "city": "Berlin",
+            "country": "DE"
+        },
+        "coordinates": {
+            "lat": 52.500000,
+            "lng": 13.350000
+        },
+        "contact": {
+            "phone": null,
+            "website": "https://policum.berlin/vorsorge-und-gesundheitsleistungen/grosses-blutbild"
+        },
+        "self_pay": true,
+        "prices": {
+            "publicly_available": true,
+            "amount_eur": 89,
+            "note": "Prix publié pour le bilan sanguin étendu présenté sur la page, et non pour toutes les analyses possibles."
+        },
+        "source_url": "https://policum.berlin/vorsorge-und-gesundheitsleistungen/grosses-blutbild"
+        }
+    ]
+}

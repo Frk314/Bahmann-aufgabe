@@ -1,0 +1,52 @@
+/*
+ * theme.css — Palette du projet, harmonisée avec janbahmann.de
+ */
+@import "tailwindcss";
+
+@theme static {
+    --color-*: initial;
+
+    --color-primary: #00456a;     /* bleu pétrole : sections, éléments principaux */
+    --color-secondary: #337281;   /* teal : couleur de soutien */
+    --color-accent: #f98e1d;      /* orange : réservé aux appels à l'action */
+    --color-background: #ffffff;
+    --color-foreground: #002538;  /* texte principal (bleu très sombre) */
+    --color-muted: #5b7083;       /* texte secondaire */
+    --color-border: #cbd9e0;
+
+    --color-white: #ffffff;
+    --color-black: #000000;
+
+    --color-dexa: #1f7aa8;        /* DEXA / composition corporelle */
+    --color-lab: #2f8f84;         /* laboratoires / bilans sanguins */
+
+    --color-danger: #d6333a;
+}
+
+
+
+
+
+
+
+/* @import "tailwindcss";
+
+@theme static {
+    --color-*: initial;
+
+    --color-primary: #17b08f;
+    --color-secondary: #3b82f6;
+    --color-accent: #f97316;
+    --color-background: #ffffff;
+    --color-foreground: #0f172a;
+    --color-muted: #64748b;
+    --color-border: #e2e8f0;
+
+    --color-white: #ffffff;
+    --color-black: #000000;
+
+    --color-dexa: #2563eb;
+    --color-lab: #16a34a;
+
+    --color-danger: #e11d48;
+} */

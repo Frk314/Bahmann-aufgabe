@@ -1,0 +1,2765 @@
+{
+  "schema_version": "1.0",
+  "providers": [
+    {
+      "id": "ChIJnebijj1aqEcRGvjS-GoqO0U",
+      "name": "Radiologie-Eins",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Clayallee 225A",
+        "postal_code": "14195",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.449958099999996,
+        "lng": 13.2689294
+      },
+      "contact": {
+        "phone": "+49 30 81003733",
+        "website": "https://www.radiologie-eins.de/?utm_source=local&utm_medium=organic&utm_campaign=gmb"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.radiologie-eins.de/koerperfettmessung-berlin/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.radiologie-eins.de/koerperfettmessung-berlin/",
+        "evidence": "r unzureichend wider, was in dem Körper vor sich geht. Denn wichtiger als die Masse oder der Body-Mass-Index ist die Körperzusammensetzung . Diese kann mit verschiedenen Methoden gemessen werden. Das Dual Energy X-ray Absorptiometry , kurz DEXA, ist ein digitales Röntgenverfahren mit einer minimalen Strahlendosis. Es misst das unterschiedliche Volumen von Knochendichte, Muskelmasse und Fett. Der DEXA Scan gilt als",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJi71qmkpRqEcRvP8Zxr2iuDI",
+      "name": "Mein Direktlabor - Labor Berlin-Tiergarten",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Lützowstraße 24-26",
+        "postal_code": "10785",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.503355199999994,
+        "lng": 13.365022999999999
+      },
+      "contact": {
+        "phone": "+49 30 48526136",
+        "website": "https://www.meindirektlabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJuSZqb8dRqEcRVge6_dat75g",
+      "name": "Mein Labor Berlin",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Sylter Str. 2",
+        "postal_code": "13353",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.541562899999995,
+        "lng": 13.338062599999999
+      },
+      "contact": {
+        "phone": "+49 30 405026800",
+        "website": "https://mein.laborberlin.com/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://mein.laborberlin.com/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://mein.laborberlin.com/",
+        "evidence": "Glossar Unsere Labor-Checks Über Mein Labor Berlin Anfahrt FAQ Individuelle Diagnostik für Ihre Gesundheit Mein Labor Berlin Buchen Sie jetzt Ihren persönlichen Gesundheits-Check. Neues Kombiangebot: Laborcheck + 3D-Körperscan Erhalte ein umfassendes Bild deiner eigenen Gesundheit. Buche einen Labor-Check und erhalte deinen 3D-Körperscan für nur 30 € statt 45 €. Jetzt mehr erfahren Unser Leistungsspektrum v",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJgSnwZHlRqEcRTGo2MgoL7l4",
+      "name": "Labor Berlin - Charité Vivantes GmbH",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Sylter Str. 2",
+        "postal_code": "13353",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.5417092,
+        "lng": 13.339257799999999
+      },
+      "contact": {
+        "phone": "+49 30 4050260",
+        "website": "http://www.laborberlin.com/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.laborberlin.com/unsere-leistungen/leistungsverzeichnis/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.laborberlin.com/unsere-leistungen/leistungsverzeichnis/",
+        "evidence": "arriere Karriereportal Karriere-FAQs MTL-Ausbildung Standorte Leistungsverzeichnis Unser Leistungsspektrum in der Übersicht Labor Berlin Unsere Leistungen Leistungsverzeichnis Sie möchten privat Ihre Blutwerte bestimmen lassen? Hier finden Sie unser Angebot für Selbstzahler inkl. Terminen zur Blutentnahme: mein.laborberlin.com Leistungen für Privatpatienten, selbstzahlende Patienten oder laborärztliche Wah",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJa-fK2L5RqEcRVJRfHe_WoW0",
+      "name": "ETERNO Berlin",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "ETERNO Berlin GmbH, Schicklerstraße 5-7/BEAM 1. OG",
+        "postal_code": "10179",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.5163224,
+        "lng": 13.416022799999999
+      },
+      "contact": {
+        "phone": null,
+        "website": "https://www.eterno.health/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.eterno.health/physiotherapie/labor-berlin",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.eterno.health/physiotherapie/labor-berlin",
+        "evidence": "an Labor-Checks für Ihre Gesundheitsvorsorge. Ihre Ergebnisse werden von unseren erfahrenen Fachärzt:innen befundet – ganz ohne Überweisung. Weitere Informationen finden Sie auch auf unserer Website Blutuntersuchungen: Übersicht aller Tests - Mein-Labor Berlin . Am Standort in Berlin Mitte bieten wir eine ausschließliche bargeldlose Vor-Ort-Zahlung mit allen gängigen Zahlungsmitteln an. Das heißt, sie zahlen dir",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJA8VzclRXqEcRl_V6p0GcEw0",
+      "name": "Meine Laborwerte",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Neue Bergstraße 6A",
+        "postal_code": "13585",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.550046,
+        "lng": 13.205110399999999
+      },
+      "contact": {
+        "phone": "+49 30 23592753",
+        "website": "https://www.meinelaborwerte.com/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meinelaborwerte.com/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.meinelaborwerte.com/",
+        "evidence": "erung erstattet, eine vorherige Abstimmung mit Deiner Versicherung wird empfohlen. Gesetzlich Versicherte müssen sie meist selbst tragen. Beachte bei der Abwägung der Kostenfrage, dass die Kosten von Laboruntersuchungen, die von Dir gewünscht werden, aber nicht direkt in Beziehung zu etwaigen Krankheitssymptomen stehen, in der Regel auch bei Kassenversicherten nicht von den Krankenkassen übernommen werden. Diese U",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ9RReYrBXqEcRhfev0DAl5Rk",
+      "name": "Mein Direktlabor - Labor Berlin-Spandau",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Siemensdamm 50",
+        "postal_code": "13629",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.5346311,
+        "lng": 13.275188799999999
+      },
+      "contact": {
+        "phone": "+49 30 48526208",
+        "website": "https://www.meindirektlabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJo01Xw4hPqEcRhC6qwjHRmgs",
+      "name": "VampireLab",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Krossener Str. 2",
+        "postal_code": "10245",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.509808,
+        "lng": 13.4636041
+      },
+      "contact": {
+        "phone": "+49 172 3479464",
+        "website": "https://www.vampirelab.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.vampirelab.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.vampirelab.de/",
+        "evidence": "ilddrüse, Leber, Nieren oder Herz-Kreislauf-Gesundheit gibt. Bei VampireLab in Berlin kannst du die Blutwerte testen lassen, die dich interessieren – oder wir helfen dir bei der Auswahl der passenden Laborwerte. Die Laboranalyse übernimmt das medizinische Labor. Anschließend schauen wir uns deine Ergebnisse an: Was liegt im Normbereich? Was fällt auf? Und was könnten die nächsten Schritte sein? Wenn etwas ä",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJcwjQQpNPqEcRdOqYFhyE4D8",
+      "name": "avi Hausarztpraxis Spittelmarkt",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Wallstraße 16",
+        "postal_code": "10179",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.5111661,
+        "lng": 13.406618700000001
+      },
+      "contact": {
+        "phone": "+49 30 220127340",
+        "website": "https://www.avimedical.com/praxis/berlin-spittelmarkt?mtm_campaign=Google-Business&mtm_kwd=spittelmarkt"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.avimedical.com/leistungen/spezialleistungen/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.avimedical.com/leistungen/spezialleistungen/",
+        "evidence": "n wie z.B. Corona nachweisen, da das Immunsystem spezifische Antikörper bildet: IgM-Antikörper werden schon nach wenigen Tagen positiv nachgewiesen, IgG-Antikörper nach mehreren Wochen. Häufig Rundum-Blutbild Das avi Rundum-Blutbild ermöglicht es Ihnen die wichtigsten Gesundheitsrisiken zu überprüfen. Im hektischen Berufs- und Privatleben sollten Sie Ihre Gesundheit nicht vernachlässigen. Selbstzahler Vit",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJKS2uJPxNqEcRBJwaDUGw_Z0",
+      "name": "MED:ON Praxis am Planetarium",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Prenzlauer Allee 180",
+        "postal_code": "10405",
+        "city": "Berlin-Bezirk Pankow",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.5440523,
+        "lng": 13.4266008
+      },
+      "contact": {
+        "phone": "+49 30 4423823",
+        "website": "https://med-on-mvz.de/standorte/hausarztpraxis-berlin-prenzlauer-allee/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://med-on-mvz.de/standorte/hausarztpraxis-berlin-prenzlauer-allee/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://med-on-mvz.de/standorte/hausarztpraxis-berlin-prenzlauer-allee/",
+        "evidence": "ervice Patienteninformationen Terminvereinbarung Hausarztzentrierte Versorgung Hausbesuchsdienst Impfungen DMP – Chronische Erkrankungen Vorsorge IGeL- und Selbstzahler-Leistungen Patientenschulungen Laboruntersuchungen Naturheilverfahren und Akupunktur Praxisvertretung Team MED:ON Unser Unternehmen Ihr Kontakt zu uns Nachhaltigkeit Praxisnachfolge Aktuelles Karriere Karriere im Überblick MED:ON als Arbeitgeber St",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJtwO2g7g42w0RjypL1aFb0hs",
+      "name": "YEARS - Präventivmedizin I Arzt I Internist I Medizinisches Labor I Longevity",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": true,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Joachimsthaler Str. 34",
+        "postal_code": "10719",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.502578,
+        "lng": 13.3314015
+      },
+      "contact": {
+        "phone": "+49 32 221094101",
+        "website": "https://www.years.co/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.years.co/de/was-kostet-ein-longevity-check-up",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.years.co/de/was-kostet-ein-longevity-check-up",
+        "evidence": "-Auswertung Eterno Health ~€3.000 Blutbild, Wearable-Daten, Health Coaches Schön Klinik Longevity ~€3.500 – €7.500 Klinikprogramm mit Bildgebung je nach Umfang Check-up 35 (GKV) €0 (Eigenanteil) Basisblutwerte, Blutdruck, Kurzgespräch PKV-Erstattung nach GOÄ Der Longevity Check-up ist keine Leistung der gesetzlichen Krankenversicherung. Für gesetzlich Versicherte gilt: Der Check-up wird als Selbstzahler-Le",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJxXgGJnxPqEcRmXg7ui7vUSg",
+      "name": "MVZ Kreuzberg",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Skalitzer Str. 33",
+        "postal_code": "10999",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.4989207,
+        "lng": 13.4249107
+      },
+      "contact": {
+        "phone": "+49 30 6123794",
+        "website": "https://mvz-kreuzberg.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://mvz-kreuzberg.de/checkup",
+      "verification": {
+        "verified": true,
+        "source_url": "https://mvz-kreuzberg.de/checkup",
+        "evidence": "wa Vitamine, Mineralstoffe oder individuelle Gesundheitsparameter. Wir berechnen die Praxisleistung für die Blutentnahme, die eigentliche Analyse erfolgt über unser Partnerlabor. Die Rechnung für die Laboruntersuchung erhalten Sie direkt vom Labor. Gerne senden wir Ihnen zur Orientierung vorab die aktuelle Preisliste unseres Partnerlabors. Bitte beachten Sie, dass es sich hierbei um Privatleistungen handelt, die n",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJXTnFVnxOqEcR7ldJvCnkPRc",
+      "name": "Policum am Fennpfuhl | Poliklinik und Gesundheitszentren",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": true,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Franz-Jacob-Straße 10",
+        "postal_code": "10369",
+        "city": "Berlin-Bezirk Lichtenberg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.5281118,
+        "lng": 13.467797
+      },
+      "contact": {
+        "phone": null,
+        "website": "https://policum.berlin/medizinische-einrichtungen/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://policum.berlin/vorsorge-und-gesundheitsleistungen/allergie-testung",
+      "verification": {
+        "verified": false,
+        "source_url": "https://policum.berlin/vorsorge-und-gesundheitsleistungen/allergie-testung",
+        "evidence": "eisemedizinische Beratung & Impfungen mehr erfahren IGeL Leistung Bleaching Die Zahnaufhellung (Bleaching) ist eine schonende und schnelle Art, Ihre Zähne bis zu Ihrem… Bleaching mehr erfahren Großes Blutbild Ein großes Blutbild liefert umfassende Informationen über Ihren Gesundheitszustand. Großes Blutbild mehr erfahren Gesundheitsleistungen entdecken Startseite Über uns Karriere Stellenangebote Kontakt",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJCfjdhkqjY0ERI3zzn7CAdQM",
+      "name": "Orthopädie Zentrum Altona",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Paul-Nevermann-Platz 5",
+        "postal_code": "22765",
+        "city": "Hamburg-Altona",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.551349599999995,
+        "lng": 9.935444799999999
+      },
+      "contact": {
+        "phone": "+49 40 39808720",
+        "website": "http://www.oz-altona.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.oz-altona.de/",
+      "verification": {
+        "verified": true,
+        "source_url": "http://www.oz-altona.de/",
+        "evidence": "dum-Service Von unserem hochspezialisierten Team erhalten Sie alles, was Ihre zielgerichtete Therapie erfordert: Digitales Röntgen Röntgen-Ganzaufnahmen von Wirbelsäule und Bein Knochendichtemessung (DXA) Ultraschall (Sonographie) Ultraschall der Säuglingshüfte Körperfettmessung Mehr über unseren Service erfahren Breit aufgestellt Unser Team Ihre Gesundheit liegt uns am Herzen. Ganz gleich, unter wel",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJf2SrGxiPsUcRgcuQUAV92pM",
+      "name": "Medical Laboratory Hamburg Stephansplatz",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Stephanspl. 3",
+        "postal_code": "20354",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.5578544,
+        "lng": 9.9884813
+      },
+      "contact": {
+        "phone": "+49 40 76696700",
+        "website": "https://www.meindirektlabor.de/standorte/standort/labor-stephansplatz/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJkw1iZneJsUcRV8BOg0b6Csw",
+      "name": "Mein Direktlabor - Labor Hamburg-Nord",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Essener Str. 110",
+        "postal_code": "22419",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.675592599999995,
+        "lng": 10.0008197
+      },
+      "contact": {
+        "phone": "+49 40 53805888",
+        "website": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-hamburg-nord/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJBQpB9NWPsUcRsh3plQA9Gqs",
+      "name": "HP Lab | Heilpraktiker Labor Hamburg",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Jungfernstieg 44",
+        "postal_code": "20354",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.5547391,
+        "lng": 9.9896125
+      },
+      "contact": {
+        "phone": "+49 40 35718450",
+        "website": "https://www.heilpraktikerlabor-hamburg.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.heilpraktikerlabor-hamburg.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.heilpraktikerlabor-hamburg.de/",
+        "evidence": "Heilpraktiker Labor Hamburg Blutuntersuchung, Labordiagnostik, Laboranalysen | Hp Lab | Meizinisches Labor Hamburg top of page Home Über Uns Kontakt Impressum Datenschutz HP Lab | Heilpraktiker Labor Hamburg Direktlabor | Labordiagnostik für Se",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ20eiAKy8Y0ERdsdmo1GVz4E",
+      "name": "Pränatalzentrum",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Altonaer Str. 61",
+        "postal_code": "20357",
+        "city": "Hamburg-Eimsbüttel",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.564825899999995,
+        "lng": 9.963142399999999
+      },
+      "contact": {
+        "phone": "+49 40 4329260",
+        "website": "http://www.praenatalzentrum.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.praenatalzentrum.de/leistungen",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.praenatalzentrum.de/leistungen",
+        "evidence": "von PAPP-A und HCG zur präziseren Risikoabschätzung für Chromosomenstörungen. Weiterführende Infos Ab SSW 16 + Ab SSW 16 SSW 16 + - SSW 18 + SSW 16 - SSW 18 + SSW 16 - SSW 18 AFP (alpha-Fetoprotein) Bluttest zur Risikoeinschätzung für Fehlbildungen der Wirbelsäule und der Bauchwand. Weiterführende Infos Wahlleistungen Unsere Selbstzahler:innen-Leistungen bieten zusätzliche pränatale Untersuchungen und Be",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJu7rooxmPsUcRWStncsKTdfM",
+      "name": "Naturopaths - immunobiologist - Biologist Ralph Gadow",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Jungfernstieg 44",
+        "postal_code": "20354",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.554809,
+        "lng": 9.989607999999999
+      },
+      "contact": {
+        "phone": "+49 40 35718450",
+        "website": "https://www.heilpraktikerpraxis-hamburg.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.heilpraktikerpraxis-hamburg.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.heilpraktikerpraxis-hamburg.de/",
+        "evidence": "ostik für Selbstzahler und Privatpatienten. Schnelle Tests. Klare Ergebnisse. Professionelle Diagnostik. Unser Heilpraktikerlabor in der Hamburger Innenstadt bietet Ihnen die Direktbeauftragung einer Laboruntersuchung ohne Termin beim Arzt oder Heilpraktiker. Ihre Vorteile mit dem Direktlabor: maximale Zeitersparnis, absolute Anonymität und die volle Kontrolle über die eigenen Gesundheitsdaten. Sie erhalten einen",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJH4IsnNrfnUcRsnFt-dJ2N58",
+      "name": "Mein Direktlabor - Labor München",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Paul-Wassermann-Straße 1",
+        "postal_code": "81829",
+        "city": "München",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.137355799999995,
+        "lng": 11.6855268
+      },
+      "contact": {
+        "phone": "+49 89 630238980",
+        "website": "http://www.meindirektlabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJszf9pn3fnUcRnbuIMZhMa7E",
+      "name": "HAUSARZTPRAXIS MÜNCHEN MVZ - Filiale am Glockenbach | J41 | Dr. med. Gross & Kollegen - Allgemein- und Innere Medizin",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Jahnstraße 41",
+        "postal_code": "80469",
+        "city": "München",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.127095999999995,
+        "lng": 11.569212
+      },
+      "contact": {
+        "phone": "+49 89 2012122",
+        "website": "https://hausarzt-muc.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://hausarzt-muc.de/hausarzt-speziell/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://hausarzt-muc.de/hausarzt-speziell/",
+        "evidence": "le vorsorgen mit unseren Premium Check-ups Wir bieten zusätzlich zu dem kostenfreien Gesundheitscheck-up ausführlichere Vorsorgeuntersuchungen für Selbstzahler an. Diese umfassen z.B. eine erweiterte Blutuntersuchung, EKG, Ultraschall etc. Check-Up - Standard Grundlage für die Premium Check-Ups, alle 3 Jahre kostenlos Check-Up - Plus Zusätzlich zu Check-Up - Standard: Leistung 1 Leistung 2 Leistung 3 Leistung 4 C",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJhx-mozN1nkcRZQWiq_WuYI4",
+      "name": "avi Hausarztpraxis Hofstatt",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Hackenstraße 2",
+        "postal_code": "80331",
+        "city": "München-Altstadt-Lehel",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.1359763,
+        "lng": 11.5708212
+      },
+      "contact": {
+        "phone": "+49 89 125014540",
+        "website": "https://www.avimedical.com/praxis/muenchen-hofstatt?mtm_campaign=Google-Business&mtm_kwd=hofstatt"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.avimedical.com/leistungen/spezialleistungen/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.avimedical.com/leistungen/spezialleistungen/",
+        "evidence": "n wie z.B. Corona nachweisen, da das Immunsystem spezifische Antikörper bildet: IgM-Antikörper werden schon nach wenigen Tagen positiv nachgewiesen, IgG-Antikörper nach mehreren Wochen. Häufig Rundum-Blutbild Das avi Rundum-Blutbild ermöglicht es Ihnen die wichtigsten Gesundheitsrisiken zu überprüfen. Im hektischen Berufs- und Privatleben sollten Sie Ihre Gesundheit nicht vernachlässigen. Selbstzahler Vit",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ9VBu8uQlv0cRes3MMlVCKwY",
+      "name": "Orthopädie em Veedel - Köln Lindenthal",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Dürener Str. 199-203",
+        "postal_code": "50931",
+        "city": "Köln",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.929997199999995,
+        "lng": 6.9139251
+      },
+      "contact": {
+        "phone": "+49 221 95587654",
+        "website": "https://orthopaedie-em-veedel.de/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://orthopaedie-em-veedel.de/koerperzusammensetzungsanalyse/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://orthopaedie-em-veedel.de/koerperzusammensetzungsanalyse/",
+        "evidence": "g Unsere Praxis Team Aktuelles Stellenangebote Partner Stellenangebote Kontakt Termin vereinbaren X Kontakt Termin Körperzusammen setzungsanalyse Körperzusammensetzungsanalyse & Knochendichtemessung (DEXA) Die DEXA-Methode (Dual-Energy X-ray Absorptiometry) ist eine weit verbreitete und präzise Technik zur Messung der Körperzusammensetzung, insbesondere der Fettmasse , Muskelmasse und Knochenmineraldi",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJUW3fQdYnv0cR_L7DoJaNuZQ",
+      "name": "Mein Direktlabor - Labor Köln",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Hauptstraße 71-73",
+        "postal_code": "50996",
+        "city": "Köln",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.8931579,
+        "lng": 6.9953712
+      },
+      "contact": {
+        "phone": "+49 221 9355560",
+        "website": "https://www.meindirektlabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJz0fKyX2GcUEReMTTbYlTusM",
+      "name": "Praxis Dr. med. Sascha Lammertz",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Friesenpl. 17A",
+        "postal_code": "50672",
+        "city": "Köln",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.9403076,
+        "lng": 6.937572899999999
+      },
+      "contact": {
+        "phone": "+49 221 58944070",
+        "website": "http://www.friesenplatzpraxis.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.friesenplatzpraxis.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.friesenplatzpraxis.de/",
+        "evidence": "ür Ärzte (GOÄ). Gerne beraten wir Sie, welche der genannten Leistungen individuell für Sie empfehlenswert sind. Individuelle Gesundheitsleistungen Spezielle Vorsorgeuntersuchungen mit weiterführenden Laboruntersuchungen Immunologisches Untersuchungsverfahren zum Nachweis von okkultem Blut im Stuhl (iFOBT) Lungenfunktionsuntersuchung oder EKG auf Wunsch Akupunkturbehandlungen zur Schmerztherapie Akupunktur zur Rauc",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ2dhS-50VvUcRkkujNHB7H7k",
+      "name": "Ernährungsberatung & Fitness Coaching - Balancecode",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": false,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Weißadlergasse 3",
+        "postal_code": "60311",
+        "city": "Frankfurt am Main",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.1116293,
+        "lng": 8.6789335
+      },
+      "contact": {
+        "phone": "+49 69 95016678",
+        "website": "https://balancecode.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://balancecode.de/koerperanalyse-frankfurt/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://balancecode.de/koerperanalyse-frankfurt/",
+        "evidence": "Körperanalyse Frankfurt bekommst du endlich klare Fakten statt Schätzungen – und damit die Grundlage für eine maßgeschneiderte Strategie, die wirklich funktioniert. Studien zeigen 98% Korrelation zum DEXA Scan, dem Goldstandard zur Körperfettmessung Messung mit Mehrwert Ob zur Optimierung deines Trainings, zur gezielten Gewichtsreduktion oder der Gesundheitsvorsorge – eine exakte Analyse deiner Körper",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJPbsduvsLvUcReueDabLGre8",
+      "name": "IMD Labor Frankfurt",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Heidelberger Str. 13",
+        "postal_code": "60327",
+        "city": "Frankfurt am Main",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.10102,
+        "lng": 8.65574
+      },
+      "contact": {
+        "phone": "+49 69 24404360",
+        "website": "http://www.labffm.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.labffm.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.labffm.de/",
+        "evidence": "or vor Ort in Frankfurt am Main bieten wir ein breites Spektrum hochwertiger Labordiagnostik, mit besonderem Fokus auf Hämostaseologie und Infektiologie. Patientinnen und Patienten können ausgewählte Laboruntersuchungen als Selbstzahler und ohne Überweisung in Anspruch nehmen. Ärztlichen Praxen und Einrichtungen bieten wir unsere labordiagnostischen Leistungen als Einsender an. Ergänzend arbeitet das IMD Labor Fra",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJD0eH86UOvUcRF6PSQKfE1Bc",
+      "name": "fradoc - Dr. Röbel & Kollegen",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Zeil 111",
+        "postal_code": "60313",
+        "city": "Frankfurt am Main-Innenstadt I",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.113915399999996,
+        "lng": 8.681417399999999
+      },
+      "contact": {
+        "phone": "+49 69 285050",
+        "website": "http://www.fradoc.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.fradoc.de/de/leistungen/check-up",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.fradoc.de/de/leistungen/check-up",
+        "evidence": "lcher Check-up bzw. welche Vorsorgeuntersuchung passt zu mir? 1. Basis-Check-up Der Einstieg in die private Vorsorgeuntersuchung – eine solide gesundheitliche Standortbestimmung. Preise ab 75 € – mit Laboruntersuchung ab 162 € (Selbstzahlerpreise; für privat Versicherte können abweichende Tarife gelten). ✔️ Anamnese & körperliche Untersuchung ✔️ Ruhe-EKG ✔️ Laborchemische Diagnostik: Blutbild, Leberwerte, Nierenwe",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJaVds9BUPvUcRIhEls3cvbaY",
+      "name": "Women’s Health Center",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Kaiserstraße 5",
+        "postal_code": "60311",
+        "city": "Frankfurt am Main",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.111452400000005,
+        "lng": 8.6766047
+      },
+      "contact": {
+        "phone": "+49 69 9133060",
+        "website": "https://www.whc-gyn.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.whc-gyn.de/igel-leistungen",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.whc-gyn.de/igel-leistungen",
+        "evidence": "en. Die gesetzlichen Krankenkassen übernehmen einige Infektionsuntersuchungen nur dann, wenn ein konkreter Verdacht besteht oder Symptome vorliegen. Zur zusätzlichen Absicherung können weiterführende Blutuntersuchungen durchgeführt werden. Diese gehören zu den individuellen Gesundheitsleistungen (IGeL) und sind freiwillig. Welche Infektionen können zusätzlich untersucht werden? Toxoplasmose Toxoplasmose wird meis",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ10fwpVaXvUcRaKTdGTJdmPU",
+      "name": "Mein Direktlabor - Labor Mainz",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Wallstraße 3",
+        "postal_code": "55122",
+        "city": "Mainz",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 49.9997847,
+        "lng": 8.2565642
+      },
+      "contact": {
+        "phone": "+49 4961 315760860",
+        "website": "https://www.meindirektlabor.de/standorte/standort/labor-mainz/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJpS5iHknbmUcRuhGroAAY6lY",
+      "name": "Dr. med. Berit Feldmann",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Sophienstraße 40",
+        "postal_code": "70178",
+        "city": "Stuttgart",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.7736917,
+        "lng": 9.1720876
+      },
+      "contact": {
+        "phone": "+49 711 4708980",
+        "website": "https://www.endokrinologie-im-zentrum.de/dr-feldmann"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.endokrinologie-im-zentrum.de/knochendichtenmessung",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.endokrinologie-im-zentrum.de/knochendichtenmessung",
+        "evidence": "gart Praxis Sophienstraße Kontakt/Termin Kontaktformular Online-Termine Karriere offene Stellen Barrierefreiheit Knochendichtenmessung Densitometrie Die Messung der Knochendichte führen wir mit einer DXA-Methode (Lunar (GE), Prodigy) durch. Dabei wird sowohl die Wirbelsäule als auch beide Schenkelhälse mit sehr geringer Strahlenbelastung gemessen. Auch Ganzkörperuntersuchungen des Skeletts sind mögli",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJpS5iHknbmUcRsx27kydlGeY",
+      "name": "Herr Dr. med. Konrad Bacher",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Sophienstraße 40",
+        "postal_code": "70178",
+        "city": "Stuttgart",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.7736917,
+        "lng": 9.1720876
+      },
+      "contact": {
+        "phone": "+49 711 4708980",
+        "website": "https://www.endokrinologie-im-zentrum.de/dr-bacher"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.endokrinologie-im-zentrum.de/knochendichtenmessung",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.endokrinologie-im-zentrum.de/knochendichtenmessung",
+        "evidence": "gart Praxis Sophienstraße Kontakt/Termin Kontaktformular Online-Termine Karriere offene Stellen Barrierefreiheit Knochendichtenmessung Densitometrie Die Messung der Knochendichte führen wir mit einer DXA-Methode (Lunar (GE), Prodigy) durch. Dabei wird sowohl die Wirbelsäule als auch beide Schenkelhälse mit sehr geringer Strahlenbelastung gemessen. Auch Ganzkörperuntersuchungen des Skeletts sind mögli",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ_QcCStrDmUcRUVezjUPSqOY",
+      "name": "Mein Direktlabor Stuttgart - Moderne Labordiagnostik für Selbstzahler",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Leinfelder Str. 60",
+        "postal_code": "70771",
+        "city": "Leinfelden-Echterdingen",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.6914727,
+        "lng": 9.1596611
+      },
+      "contact": {
+        "phone": "+49 711 6522430",
+        "website": "https://www.meindirektlabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJQSGZLWXDmUcROpIWS3a4u4c",
+      "name": "Hausarzt Sillenbuch - Dr. Kathrin Ellinger",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Kirchheimer Str. 61",
+        "postal_code": "70619",
+        "city": "Stuttgart-Sillenbuch",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 48.7447391,
+        "lng": 9.213092699999999
+      },
+      "contact": {
+        "phone": "+49 711 473805",
+        "website": "https://www.drellinger.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.drellinger.de/hausarzt-sillenbuch-ellinger-leistungen/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.drellinger.de/hausarzt-sillenbuch-ellinger-leistungen/",
+        "evidence": "ür Sie bereitliegt. Großes Vorsorgepakt Individuell buchbare Vorsorgebausteine × Großes Vorsorgepakt Dieses beinhaltet: eine ausführliche Anamneseerhebung und körperliche Untersuchung eine erweiterte Blutuntersuchung inklusive unterschiedlicher Mikronährstoffe auf Wunsch eine Urinuntersuchung, ggf. inklusive dem Blasenkrebsmarker BCM eine Stuhluntersuchung auf Blut, ggf. inklusive dem Enzym M2PK als früher Marker",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJE8lGFdzLuEcRy02N9INGcw0",
+      "name": "ESTHETIOS - Praxis für Ästhetische Medizin und Longevity",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": false,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Königsallee 30",
+        "postal_code": "40212",
+        "city": "Düsseldorf",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.2246581,
+        "lng": 6.7800873
+      },
+      "contact": {
+        "phone": "+49 211 15875222",
+        "website": "https://esthetios.com/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://esthetios.com/services/executive-performance-longevity",
+      "verification": {
+        "verified": true,
+        "source_url": "https://esthetios.com/services/executive-performance-longevity",
+        "evidence": "-, Hormon-, Entzündungs- und Mikronährstoffparameter entsprechend dem individuellen Profil. Body Composition Differenzierte Analyse von Körperfett und Muskelmasse; in erweiterten Programmen kann eine DEXA-Messung eingebunden werden. VO₂max & Spiroergometrie Analyse der kardiorespiratorischen Leistungsfähigkeit und Grundlage für individuell definierte Trainingsbereiche. Physical Performance Kraft und f",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJr5Gb1vTJuEcRzUwsJPjblHA",
+      "name": "MVZ Medizinische Laboratorien Düsseldorf",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Nordstraße 44",
+        "postal_code": "40477",
+        "city": "Düsseldorf-Stadtbezirk 1",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.237808099999995,
+        "lng": 6.7794171
+      },
+      "contact": {
+        "phone": "+49 211 49780",
+        "website": "http://www.labor-duesseldorf.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.labor-duesseldorf.de/fuer-aerzte/veranstaltungen/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.labor-duesseldorf.de/fuer-aerzte/veranstaltungen/",
+        "evidence": "ses Nachmittags wollen wir die Arbeit in einem medizinischen Labor näherbringen und so für die Zusammenarbeit zwischen Labor und Arztpraxis sensibilisieren. Praktische Elemente für die Teilnehmer wie Blutabnahme, Mikroskopieren, Blutausstrich und mehr. Datum: 07. Oktober 2026 Ort: Düsseldorf Uhrzeit: 14:00 Uhr bis ca. 18:00 Uhr Die Teilnehmerzahl ist auf 6 Personen begrenzt. Hier geht es zum Online-Formular",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJtb6zwiXKuEcRNPLBM0W8EL8",
+      "name": "Praxis Dr. med. Herbert Loerke & Dr. med. Markus Geimer",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Louise-Dumont-Straße 1",
+        "postal_code": "40211",
+        "city": "Düsseldorf-Stadtbezirk 1",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.228538699999994,
+        "lng": 6.787742799999999
+      },
+      "contact": {
+        "phone": "+49 211 351918",
+        "website": "http://hausarzt-am-hofgarten.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://hausarzt-am-hofgarten.de/portfolio-item/grosser-gesundheits-check-up/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://hausarzt-am-hofgarten.de/portfolio-item/grosser-gesundheits-check-up/",
+        "evidence": "Halsschlagader, Bauchaorta und Leistenschlagader) Ausführliche Beratung und Erläuterung der Ergebnisse Abschließender, laienverständlicher und persönlicher Bericht in schriftlicher Form und Kopie der Laborwerte für Sie. Die Untersuchung kann natürlich individuell nach eigenem Wunsch angepasst werden, hierzu können sie uns ansprechen. Dies ist eine Privatleistung Die Grosse Check-Up-Untersuchung ist eine Pri",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJbUFgdz_LuEcRRNyZZGgMuVo",
+      "name": "Endokonsil | Praxis am Kö-Bogen",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": true,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Königsallee 27",
+        "postal_code": "40212",
+        "city": "Düsseldorf",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.22418940000001,
+        "lng": 6.7783165
+      },
+      "contact": {
+        "phone": "+49 211 88233556",
+        "website": "https://endokonsil-gruppe.de/aerzte-und-teams/standort-duesseldorf-koe-bogen/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://endokonsil-gruppe.de/aerzte-und-teams/standort-duesseldorf-koe-bogen/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://endokonsil-gruppe.de/aerzte-und-teams/standort-duesseldorf-koe-bogen/",
+        "evidence": "gen begrenzt. Sowohl was Fachärzt*innen als auch das diagnostische Spektrum betrifft, das von den Kassen vorgegeben wird. Mit unseren Untersuchungspaketen für Selbstzahler erhalten Sie detailliertere Laboranalysen, die ein hormonelles Ungleichgewicht umfassend untersuchen. So erkennen Sie nicht nur, ob alles in Ordnung ist, sondern auch potenzielle Risiken frühzeitig. Beachten Sie, dass diese Leitungen nicht",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJtUBIsxAosUcRx0mZYhXEkJo",
+      "name": "Heilkundezentrum Midgard",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Bremerhavener Str. 170",
+        "postal_code": "28219",
+        "city": "Bremen",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 53.099985399999994,
+        "lng": 8.7761515
+      },
+      "contact": {
+        "phone": "+49 421 43741098",
+        "website": "https://www.heilkundezentrum-midgard.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.heilkundezentrum-midgard.de/therapien/labordiagnostik-ganzheitlich-bremen/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.heilkundezentrum-midgard.de/therapien/labordiagnostik-ganzheitlich-bremen/",
+        "evidence": "len nicht unnötig als Selbstzahlerleistungen veranlasst werden. Bei Hinweisen auf eine mögliche infektiöse Ursache empfehle ich eine zeitnahe ärztliche Abklärung. Ganzheitsmedizinische Einordnung von Laborwerten Laborwerte werden in meiner Praxis nicht isoliert betrachtet. Ein einzelner Parameter erlaubt häufig noch keine ausreichende Aussage über die individuelle Gesamtsituation. Die Einordnung berücksicht",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJNQRGR7B0sEcRRP7oIUUtfY8",
+      "name": "Dr. med. Christian Wichers",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Bahnhofstraße 2",
+        "postal_code": "30159",
+        "city": "Hannover",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.374784899999995,
+        "lng": 9.7392032
+      },
+      "contact": {
+        "phone": "+49 511 306006",
+        "website": "http://www.allmak.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.allmak.de/leistungen/vorsorge/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.allmak.de/leistungen/vorsorge/",
+        "evidence": "nter 35 Jahre Von 18 bis 34 Jahren kann man einmalig eine Check up Untersuchung zu Lasten der Krankenkasse machen. Dazu gehört ein Gespräch und eine Untersuchung beim Arzt und bei Risikofaktoren eine Laboruntersuchung. Weitere Leistungen können optional als IGeL mitgemacht werden. Jugendgesundheitsuntersuchung J2 Bei Jugendlichen zwischen 16 und 17 Jahren bieten wir die J2 Jugendgesundheitsuntersuchung an. Viele J",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJQysVIrF0sEcR6e3csV94mgY",
+      "name": "Dr. med. Birger Kuhlmann",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Georgstraße 46",
+        "postal_code": "30159",
+        "city": "Hannover",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.372137099999996,
+        "lng": 9.7402366
+      },
+      "contact": {
+        "phone": "+49 511 2206440",
+        "website": "http://www.praxis-georgstrasse.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.praxis-georgstrasse.de/leistung",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.praxis-georgstrasse.de/leistung",
+        "evidence": "r: Reisemedizinische- und Impfberatung Anonymer HIV Schnelltest Nach Terminabsprache: Ultraschall - Ekg Täglich ohne Termin während der Sprechzeiten vormittags und nachmittags ausser Montag morgens : Blutabnahmen Schutzimpfungen Täglich von 8 Uhr bis 9 Uhr ohne Termin Notfallsprechstunde Leistung - Titel Leistungen Praxis Georgstrasse 46 Georgstraße, Hannover, NDS, 30159, Germany 0511 - 220644 - 0 info@praxi",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJX0hutF5zsEcR3_PFi5McxA0",
+      "name": "Dr. med. Heide Grüter-Degering",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Vahrenwalder Pl. 3",
+        "postal_code": "30165",
+        "city": "Hannover",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.39175770000001,
+        "lng": 9.735392
+      },
+      "contact": {
+        "phone": "+49 511 623060",
+        "website": "https://hausärzte-hannover-list-vahrenwald.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://hausärzte-hannover-list-vahrenwald.de/diagnostik-labor/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://hausärzte-hannover-list-vahrenwald.de/diagnostik-labor/",
+        "evidence": "xis kommen. Bei speziellen Fragestellungen bitten wir Sie um Ihren vorherigen Besuch in der Sprechstunde, um gemeinsam festzulegen, welche Blutwerte untersucht werden sollen. Bitte kommen Sie für die Blutabnahme möglichst „nüchtern“ zu uns, also ohne Frühstück. Hinweis Sie erhalten bei uns jede medizinisch notwendige Blutuntersuchung. Einige Untersuchungen werden von den gesetzlichen Krankenkassen jedoch nic",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ1SJEw7p0sEcRutWY6h5nAmY",
+      "name": "Praxis Dr. med. Antje Bierschwale",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Georgstraße 19",
+        "postal_code": "30159",
+        "city": "Hannover",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.375609999999995,
+        "lng": 9.734589999999999
+      },
+      "contact": {
+        "phone": "+49 511 1316811",
+        "website": "http://www.praxis-dr-bierschwale.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.praxis-dr-bierschwale.de/individuelle-gesundheitsleistungen",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.praxis-dr-bierschwale.de/individuelle-gesundheitsleistungen",
+        "evidence": "rapie, Phytotherapie Akupunktur Akupunktur als Reiztherapie zur Förderung körpereigener Regulationsmechanismen Vitalisierungskuren Durch eine Vitalisierungskur steigern wir Ihre Abwehrkräfte Weiteres Bluttest (PSA) auf Prostatakrebs; Bluttest auf Vitamin D, C und Spurenelemente; Stuhltest auf Darmdysbiose; Test auf Nahrungsmittelunverträglichkeiten wie Laktoseintoleranz und Histaminintoleranz; Blutuntersu",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJoWZ1IrF0sEcR6gQIlYSI0ug",
+      "name": "Praxis Georgstrasse",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Georgstraße 46",
+        "postal_code": "30159",
+        "city": "Hannover",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.372180099999994,
+        "lng": 9.7402041
+      },
+      "contact": {
+        "phone": "+49 511 2206440",
+        "website": "http://www.praxis-georgstrasse.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.praxis-georgstrasse.de/leistung",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.praxis-georgstrasse.de/leistung",
+        "evidence": "r: Reisemedizinische- und Impfberatung Anonymer HIV Schnelltest Nach Terminabsprache: Ultraschall - Ekg Täglich ohne Termin während der Sprechzeiten vormittags und nachmittags ausser Montag morgens : Blutabnahmen Schutzimpfungen Täglich von 8 Uhr bis 9 Uhr ohne Termin Notfallsprechstunde Leistung - Titel Leistungen Praxis Georgstrasse 46 Georgstraße, Hannover, NDS, 30159, Germany 0511 - 220644 - 0 info@praxi",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJzZETAMB0sEcRxz7AzPtvBt4",
+      "name": "Praxis Sahim Mohammad-Amin Sahim",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Lindener Marktpl. 2",
+        "postal_code": "30449",
+        "city": "Hannover",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.3668243,
+        "lng": 9.715074
+      },
+      "contact": {
+        "phone": "+49 511 451414",
+        "website": "https://www.praxissahim.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.praxissahim.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.praxissahim.de/",
+        "evidence": "en, SARS-CoV-2 Antikörpertestung, Stuhlproben auf Keime, Schwangerschaftstest im Urin etc. Ebenfalls haben wir IGeL-Leistungen im Angebot, die Sie auf Anfrage gerne wahrnehmen können, wie z. B. viele Laboruntersuchungen, Vitamin B-12-, Vitamin D- und viele weitere Untersuchungen. Darüber hinaus können individuelle Vorsorge-Check-ups für Kassenpatienten, Geschäftsleute, Selbstzahler und Firmen abgestimmt werden. Wi",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJC6p7DqZXn0cRTMmeROy8Psc",
+      "name": "Praxis für Endokrinologie, Mariana Campderá MD, Dr. Mathias Beyer, Dr. Flavius Zoicas",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Karolinenstraße 1",
+        "postal_code": "90402",
+        "city": "Nürnberg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 49.4508393,
+        "lng": 11.0773891
+      },
+      "contact": {
+        "phone": "+49 911 236050",
+        "website": "https://hormone-nbg.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://hormone-nbg.de/body-composition/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://hormone-nbg.de/body-composition/",
+        "evidence": "rs zu unterscheiden. Die Strahlenbelastung der Methode liegt deutlich unterhalb der konventioneller Röntgenaufnahmen bzw. noch unterhalb der der natürlichen Strahlenexposition. Die von uns verwendete DXA-Methode (Norland XR 36) wird in Deutschland nur von wenigen Zentren eingesetzt. Es handelt sich um den weltweit anerkannten Standard zur Messung von Fettanteil und fettfreier Masse. Sie setzt sich qu",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJffRuKkdXn0cRlNLSiyjP2hI",
+      "name": "Mein Direktlabor - Labor Nürnberg",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "EG / Bauteil D, Deutschherrnstraße 15-19",
+        "postal_code": "90429",
+        "city": "Nürnberg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 49.453537499999996,
+        "lng": 11.063762599999999
+      },
+      "contact": {
+        "phone": "+49 911 9447076",
+        "website": "https://www.meindirektlabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.meindirektlabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.meindirektlabor.de/",
+        "evidence": "Mein Direktlabor | Moderne Labordiagnostik für Selbstzahler Preise Befundabruf FAQ Kontakt Suche Über uns Standorte Labortests Magazin Termine Labor. Direkt. Für Sie. Wir ermitteln Ihre inneren Werte. Schnell, individuell und unkompliziert. Nehmen Sie Ihre Gesundheit in die Hand und lassen Sie sich testen! Labor. Direkt. Fü",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJRdaLhrzPCUcR913roz8Rkhw",
+      "name": "Privatpraxis Dr. med. Konstanze Friedrich - Allgemeinmedizin, Sportmedizin, Prävention & Rehabilitation - MEDICUS Dresden",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Jüdenhof 6",
+        "postal_code": "01067",
+        "city": "Dresden-Altstadt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.0513354,
+        "lng": 13.7395251
+      },
+      "contact": {
+        "phone": "+49 351 31297075",
+        "website": "http://www.medicus-dresden.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.medicus-dresden.de/leistungen",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.medicus-dresden.de/leistungen",
+        "evidence": "ersuchungen Läufercheck Triathloncheck Tauglichkeitsuntersuchungen (Sport, Tauchen, Bootsführerschein, Fallschirmspringen) Schlafscreening (Abklärung Müdigkeit, Bluthochdruck, Demenzrisiko) spezielle Laboruntersuchungen: u.a. Mikrobiom, Leaky Gut, Schwermetalle, Allergien, Mitochondrien, Unverträglichkeiten, Mikronährstoffe, Aminosäuren, Fettsäuren etc. Kooperation mit Fachärzten Privatversicherte und Selbstzahler",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ5U8a3pTICUcRe4JbiBEdun4",
+      "name": "Medizinisches Labor Ostsachsen MVZ eGbR Standort Dresden",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Bremer Str. 57",
+        "postal_code": "01067",
+        "city": "Dresden-Altstadt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.0609605,
+        "lng": 13.699261799999999
+      },
+      "contact": {
+        "phone": "+49 351 31406100",
+        "website": "https://www.labor-ostsachsen.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.labor-ostsachsen.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.labor-ostsachsen.de/",
+        "evidence": "Fachinformationen Keim- und Resistenzstatistiken Analysenverzeichnis Für Patienten Mein Befund Coronavirus SARS-CoV-2 Individuelle Gesundheitsleistungen (IGeL) Patienteninformationen Probenentnahme / Blutabnahme Test auf Geschlechtskrankheiten Drogen- und Alkoholdiagnostik Jobs Jobs in Bautzen Jobs in Dresden Jobs in Görlitz Wir bringen Diagnostik auf den Punkt. Wir bringen Diagnostik auf den Punkt. Wir brin",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJzzEYLKrPCUcRNkuEInhrAyo",
+      "name": "labopart - Medizinisches Labor Dresden",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Wurzener Str. 5",
+        "postal_code": "01127",
+        "city": "Dresden",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.081202,
+        "lng": 13.7218214
+      },
+      "contact": {
+        "phone": "+49 351 2107990",
+        "website": "https://labopart.de/unser-labor/standorte/#labordresden"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://labopart.de/fuer-patienten/individuelle-gesundheitsleistungen-igel/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://labopart.de/fuer-patienten/individuelle-gesundheitsleistungen-igel/",
+        "evidence": "tungs- verzeichnis Antibiotika- Therapie Patienten- abruf Termin- buchung Home Für Patienten Individuelle Gesundheitsleistungen (IGeL) Individuelle Gesundheitsleistungen (IGeL) Nicht alle innovativen Laboruntersuchungen werden von den gesetzlichen Krankenkassen erstattet. Für alle, die ihre Gesundheit aktiv im Blick behalten möchten, bietet Promed-Check , die speziell für Patienten entwickelte Online-Plattform von",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJPVUaN1LPCUcRFCeBSDXRd04",
+      "name": "MVZ Labor Dr. Reising-Ackermann und Kollegen Dresden Medizinisches Versorgungszentrum",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Wintergartenstraße 15",
+        "postal_code": "01307",
+        "city": "Dresden-Altstadt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.04739,
+        "lng": 13.761999999999999
+      },
+      "contact": {
+        "phone": "+49 351 44402930",
+        "website": "https://www.labordresden.de/kontakt/unsere-standorte/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.labordresden.de/kontakt/unsere-standorte/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.labordresden.de/kontakt/unsere-standorte/",
+        "evidence": "Fachinformationen Keim- und Resistenzstatistiken Analysenverzeichnis Für Patienten Mein Befund Coronavirus SARS-CoV-2 Individuelle Gesundheitsleistungen (IGeL) Patienteninformationen Probenentnahme / Blutabnahme Test auf Geschlechtskrankheiten Drogen- und Alkoholdiagnostik Jobs Jobs in Bautzen Jobs in Dresden Jobs in Görlitz Kontakt FAQ Bei Fragen oder Problemen rund um Ihren Coronabefund bzw. den Befundabru",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJMYOYgj34pkcR7r8ekiqNct4",
+      "name": "Peakformance Training und Therapie | Personal Training Leipzig – Zentrum-Ost",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": false,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Salomonstraße 21",
+        "postal_code": "04103",
+        "city": "Leipzig",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.340829,
+        "lng": 12.3881912
+      },
+      "contact": {
+        "phone": "+49 341 33208428",
+        "website": "https://peakformance.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://peakformance.de/koerperanalyse-leipzig/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://peakformance.de/koerperanalyse-leipzig/",
+        "evidence": "anzanalyse (BIA) eingeschätzt. Die Ergebnisse helfen, Training und Ernährung an deine Ziele anzupassen. Die Körperanalyse ist im kostenlosen Erstgespräch in Zentrum-Ost oder Plagwitz enthalten. Einen DEXA-Scan bieten wir nicht an. BIA ist keine Röntgenuntersuchung und ersetzt keine medizinische Diagnose. Die Werte hängen unter anderem von Flüssigkeitshaushalt und Messbedingungen ab; wichtig ist die En",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJozKB7VhbpkcRJza8kpjruc8",
+      "name": "alphaomega Labor",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Messe-Allee 23",
+        "postal_code": "04158",
+        "city": "Leipzig-Nord",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.3934048,
+        "lng": 12.376781999999999
+      },
+      "contact": {
+        "phone": "+49 341 22179400",
+        "website": "http://www.aolabor.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.aolabor.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.aolabor.de/",
+        "evidence": "t eigenen Vor- und Nachteilen. Wir kombinieren diese Messmethoden nun neu, um mit möglichst effizientem Einsatz die größtmögliche Aussagekraft zu erzielen. Weiterlesen 29.06.2026 Preistransparenz für Laboranalysen Ab dem 1. Juli 2026 können Patientinnen und Patienten auf unserer Website Preise für gängige Laboranalysen und Laborprofile, die als Individuelle Gesundheitsleistungen in Anspruch genommen werden kö",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJPQFdT9H8pkcRLCcrZU0q_Bk",
+      "name": "labopart - Medizinisches Labor Leipzig Mölbis",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Mölbiser Hauptstraße 8",
+        "postal_code": "04571",
+        "city": "Rötha-Mölbis",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.193049699999996,
+        "lng": 12.4931621
+      },
+      "contact": {
+        "phone": "+49 34347 61910",
+        "website": "https://www.labopart.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.labopart.de/fuer-patienten/individuelle-gesundheitsleistungen-igel/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.labopart.de/fuer-patienten/individuelle-gesundheitsleistungen-igel/",
+        "evidence": "tungs- verzeichnis Antibiotika- Therapie Patienten- abruf Termin- buchung Home Für Patienten Individuelle Gesundheitsleistungen (IGeL) Individuelle Gesundheitsleistungen (IGeL) Nicht alle innovativen Laboruntersuchungen werden von den gesetzlichen Krankenkassen erstattet. Für alle, die ihre Gesundheit aktiv im Blick behalten möchten, bietet Promed-Check , die speziell für Patienten entwickelte Online-Plattform von",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJXTMiQQD5pkcRVyk1Ee72sQI",
+      "name": "Gute Medizin Leipzig - Allgemeinmedizin (Augustusplatz)",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Augustuspl. 5-6",
+        "postal_code": "04109",
+        "city": "Leipzig",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.3378249,
+        "lng": 12.3822818
+      },
+      "contact": {
+        "phone": "+49 341 24709062",
+        "website": "https://gutemedizinleipzig.de/allgemeinmedizin/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://gutemedizinleipzig.de/allgemeinmedizin/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://gutemedizinleipzig.de/allgemeinmedizin/",
+        "evidence": "e Kasse die Kosten? Individuelle Gesundheitsleistungen (IGeL) sind medizinisch sinnvolle Untersuchungen, die nicht im Leistungskatalog der gesetzlichen Krankenkassen enthalten sind — z. B. erweiterte Blutanalysen oder Reisemedizin. Die Kosten tragen Sie selbst; wir beraten Sie vorab transparent über Nutzen und Preis. Kann ich bei Ihnen auch Rezepte und Überweisungen online bestellen? Ja. Folgerezepte und Übe",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJD-C1yJNN8ykRcmIn5eHe2Zs",
+      "name": "Gesundheitspraxis Bonn",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Am Burgweiher 54",
+        "postal_code": "53123",
+        "city": "Bonn-Hardtberg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.7154275,
+        "lng": 7.0464718
+      },
+      "contact": {
+        "phone": "+49 228 9621050",
+        "website": "http://www.gesundheitspraxisbonn.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.gesundheitspraxisbonn.de/igel-labor",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.gesundheitspraxisbonn.de/igel-labor",
+        "evidence": "gen IGeL & Co IGEL Labor IGEL Untersuchungen IGEL Sportmedizin IGEL Adipositas IGEL Bariatrische Nachsorge IGEL Bescheinigungen Sportmedizin Ernährung More Use tab to navigate through the menu items. Laborwerte Kleines Blutbild: 2,01 € Niere (Kreatinin, GFR ): 2,68 € Blutsalze (Natrium, Kalium, Calcium): 6,70 € Leber (GOT, GPT, Gamma-GT, inkl. FIB4- SCORE): 16,08 € Bauchspeicheldrüse (Amylase, Lipase): 8,04",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJK4Q7VlWZwEcRVtnxdagRkvU",
+      "name": "Hausarztzentrum Aachen-Forst",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Trierer Str. 67",
+        "postal_code": "52078",
+        "city": "Aachen",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.7685429,
+        "lng": 6.1218390000000005
+      },
+      "contact": {
+        "phone": "+49 241 5570630",
+        "website": "http://www.haz-ac.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.haz-ac.de/leistungen/untersuchungen/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.haz-ac.de/leistungen/untersuchungen/",
+        "evidence": "t So finden Sie uns Kontakt Untersuchungen Für Erwachsene und Kinder werden folgende Untersuchungen und Therapien durchgeführt: Akupunktur EKG Gelbfieberimpfstelle Hausbesuche Hirnleistungsdiagnostik Laboruntersuchungen Wir führen alle gängigen Laboruntersuchungen durch. Spezielle Blutuntersuchungen, wie z.B. Vitamin- oder Hormonspiegel, sind möglich. Wir machen Sie darauf aufmerksam, dass manche spezielle Blutunt",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJM7aL-z3Nl0cRPiL0J6YpEeg",
+      "name": "Medizin im Quadrat - Dr. med. J. Weihrauch und Kollegen",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "M7 19/20",
+        "postal_code": "68161",
+        "city": "Mannheim",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 49.4824254,
+        "lng": 8.471424599999999
+      },
+      "contact": {
+        "phone": "+49 621 7029220",
+        "website": "http://medizin-im-quadrat.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://medizin-im-quadrat.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://medizin-im-quadrat.de/",
+        "evidence": "rperzusammensetzung mittels medizinisch validiertem BIA-Gerät (kostenlos im Rahmen der Ernährungsberatung, außerhalb davon als IGEL) Hausärztliche Versorgung: bei akuten Beschwerden Gesundheits-Check Laboruntersuchungen EKG Lungenfunktionsmessung 24h-Blutdruckmessung Ultraschall (Schilddrüse und Bauch) Impfungen ambulantes Schlafapnoe-Screening Psychosomatische Grundversorgung Strukturiertes Behandlungsprogramm (D",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJJRYDirFzpEcRRXvfZyhh3bg",
+      "name": "Urologie Erfurt - MVZ Facharztzentrum Kaffeetrichter Erfurt GmbH",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Schillerstraße 25",
+        "postal_code": "99096",
+        "city": "Erfurt-Löbervorstadt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.9678069,
+        "lng": 11.0313498
+      },
+      "contact": {
+        "phone": "+49 361 77791610",
+        "website": "https://urologie-erfurt-mvz.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://urologie-erfurt-mvz.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://urologie-erfurt-mvz.de/",
+        "evidence": "exualmedizinische Probleme, Erektionsstörungen Privat-/ IGeL-Leistungen PSA-Test Erweiterte Krebsvorsorgeuntersuchung mit Ultraschall der Prostata, Nieren und Blase sowie Urinuntersuchungen Sämtliche Blutuntersuchungen Extrakorporale Stosswellentherapie: ESWT Therapie Erektile Dysfunktion Hormonbestimmungen mit Auswertung Urologie für Frauen In unserer Praxis für Urologie behandeln wir nicht nur Männer, sondern a",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJbyNVEIFypEcRzolAjW6B9-M",
+      "name": "MVZ Labor Limbach Erfurt GmbH",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "lab",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "St.-Christophorus-Straße 2",
+        "postal_code": "99092",
+        "city": "Erfurt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.9912437,
+        "lng": 11.000846
+      },
+      "contact": {
+        "phone": "+49 361 2620560",
+        "website": "http://www.labor-erfurt.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.labor-erfurt.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.labor-erfurt.de/",
+        "evidence": "nd medizinischen Einrichtungen nutzten die Gelegenheit, ihr Wissen rund um die Bedeutung der Blutentnahme und präanalytischer Einflussfaktoren auf Laborergebnisse zu vertiefen. weiterlesen Erweiterte Blutuntersuchungen für Privatpersonen im MVZ Labor Erfurt 16.02.2026 Ab sofort bieten wir Ihnen im MVZ Labor Erfurt die Möglichkeit, ausgewählte Laboruntersuchungen auch als Selbstzahler in Anspruch zu nehmen. Damit",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJMRsHDy1zpEcRj_KV0jNAFm0",
+      "name": "Internistische Hausarztpraxis Dr. Eßer & Rödiger",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Nordhäuser Str. 3",
+        "postal_code": "99089",
+        "city": "Erfurt-Andreasvorstadt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.983249699999995,
+        "lng": 11.0196265
+      },
+      "contact": {
+        "phone": "+49 361 2666888",
+        "website": "https://hausarzt-erfurt.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://hausarzt-erfurt.de/leistungen",
+      "verification": {
+        "verified": false,
+        "source_url": "https://hausarzt-erfurt.de/leistungen",
+        "evidence": "Ihnen in der Regel bereits am Folgetag mitteilen – per mitgereichten QR-Code, im Rahmen unserer telefonischen Befundauskunft, per E-Mail oder persönlich in einer Sprechstunde. Hinweis: Eine Reihe von Laboruntersuchungen wie Vitamin D, Mineralstoffe (z.B. Zink, Selen) oder spezielle Hormonprofile werden nicht von den gesetzlichen Krankenkassen übernommen. Diese bieten wir Ihnen als individuelle Wunschleistungen an",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJTYg8QM9ypEcRev-FFqqa-fg",
+      "name": "Dr. med. Kielstein Ambulatory Medical Care GmbH",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Melchendorfer Str. 1",
+        "postal_code": "99096",
+        "city": "Erfurt-Daberstedt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.964454499999995,
+        "lng": 11.042490899999999
+      },
+      "contact": {
+        "phone": "+49 361 262619111",
+        "website": "https://med-on-mvz.de/erfurt-polyklinik/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://med-on-mvz.de/erfurt-polyklinik/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://med-on-mvz.de/erfurt-polyklinik/",
+        "evidence": "ervice Patienteninformationen Terminvereinbarung Hausarztzentrierte Versorgung Hausbesuchsdienst Impfungen DMP – Chronische Erkrankungen Vorsorge IGeL- und Selbstzahler-Leistungen Patientenschulungen Laboruntersuchungen Naturheilverfahren und Akupunktur Praxisvertretung Team MED:ON Unser Unternehmen Ihr Kontakt zu uns Nachhaltigkeit Praxisnachfolge Aktuelles Karriere Karriere im Überblick MED:ON als Arbeitgeber St",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJy6E5d8ZypEcRfM0bifnUlJ8",
+      "name": "MED:ON MVZ - Dipl. Med. Marion Fügener",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Melchendorfer Str. 1",
+        "postal_code": "99096",
+        "city": "Erfurt-Daberstedt",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 50.9644815,
+        "lng": 11.0424641
+      },
+      "contact": {
+        "phone": "+49 361 262619100",
+        "website": "https://med-on-mvz.de/standorte/hausarzt-erfurt-polyklinik/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://med-on-mvz.de/standorte/hausarzt-erfurt-polyklinik/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://med-on-mvz.de/standorte/hausarzt-erfurt-polyklinik/",
+        "evidence": "ervice Patienteninformationen Terminvereinbarung Hausarztzentrierte Versorgung Hausbesuchsdienst Impfungen DMP – Chronische Erkrankungen Vorsorge IGeL- und Selbstzahler-Leistungen Patientenschulungen Laboruntersuchungen Naturheilverfahren und Akupunktur Praxisvertretung Team MED:ON Unser Unternehmen Ihr Kontakt zu uns Nachhaltigkeit Praxisnachfolge Aktuelles Karriere Karriere im Überblick MED:ON als Arbeitgeber St",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJzzKHIGhBu0cRW4eB8WrQX60",
+      "name": "LCHF Nordhessen",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Dörnbergstraße 14",
+        "postal_code": "34119",
+        "city": "Kassel",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 51.3171737,
+        "lng": 9.4674025
+      },
+      "contact": {
+        "phone": "+49 176 52212652",
+        "website": "http://www.lchf-nordhessen.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.lchf-nordhessen.de/leistungen/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.lchf-nordhessen.de/leistungen/",
+        "evidence": "ne Situation abgestimmt. ✓ Hinweise auf weitere Diagnostikmöglichkeiten – Falls sinnvoll, zeige ich dir, welche zusätzlichen Untersuchungen dir mehr Klarheit bringen können. ✓ Auf Wunsch individuelle Laboruntersuchungen – Als Selbstzahlerleistung direkt über mich organisierbar. ✓ Infomappe – Du bekommst alle wichtigen Informationen zum Mitnehmen – digital oder auf Papier. Die Beratung findet vor Ort in Kassel, tel",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJHZjUKub3qEcRnI0ww2O8ivA",
+      "name": "RADIOLOGISCHE PRIVATPRAXIS AM JUNGFERNSEE | DR. MECHTHILD BODE-HOFMANN",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Konrad-Zuse-Ring 6c",
+        "postal_code": "14469",
+        "city": "Potsdam",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.433628399999996,
+        "lng": 13.0567625
+      },
+      "contact": {
+        "phone": "+49 331 76997010",
+        "website": "https://potsdam-radiologie.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://potsdam-radiologie.de/",
+      "verification": {
+        "verified": true,
+        "source_url": "https://potsdam-radiologie.de/",
+        "evidence": "Kinder­radiologie / Kinder-MRT Tumor-Vor- und Nachsorge Sonographie Halsweichteile / Schilddrüse Sonographie von Thorax / Abdomen Gefäßsonographie / Farbduplex- / Dopplersonographie Mamma-Sonographie Dexa-Messplatz: Knochen­dichte­messung Frakturrisiko mit DVA Körperfett­analyse / Körper­aufbau Skelett­wachstum Offenes MRT Sonographie Dexa-Messplatz: Knochen­dichte­messung FAQ Aktuelles Für Kollegen K",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJB_mZEnH3qEcRYRdtZkowbJg",
+      "name": "don't age",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Konrad-Zuse-Ring 6c",
+        "postal_code": "14469",
+        "city": "Potsdam",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.4336237,
+        "lng": 13.056749199999999
+      },
+      "contact": {
+        "phone": "+49 331 23703101",
+        "website": "https://www.dont-age.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.dont-age.de/Longevity-Analyse",
+      "verification": {
+        "verified": true,
+        "source_url": "https://www.dont-age.de/Longevity-Analyse",
+        "evidence": "säure Fettsäureprofil (Membran-Fettsäuren) Balance Omega-6 / Omega-3 Lipid-Peroxidation / MDA Körperzusammensetzung Bioimpedanzanalyse (BIA – Fettmasse, fettfreie Masse, Muskelqualität, Phasenwinkel) DEXA-Scan MRT (in Spezialfällen) Waist-to-Hip- & Taille-zu-Größe-Verhältnis Energiestoffwechsel Organische Säuren im Urin (OAT) Atemgasanalyse Laktat/Pyruvat-Verhältnis Basaler Energieumsatz (BMR) Trackin",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJMWobKHP3qEcRrgH1bSn4OXY",
+      "name": "Praxis im Bornstedter Feld",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": false,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Georg-Hermann-Allee 26",
+        "postal_code": "14469",
+        "city": "Potsdam",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.4146083,
+        "lng": 13.050407000000002
+      },
+      "contact": {
+        "phone": "+49 331 86829858",
+        "website": "https://www.praxis-ibf.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://www.praxis-ibf.de/leistungen/sport-checkup/",
+      "verification": {
+        "verified": false,
+        "source_url": "https://www.praxis-ibf.de/leistungen/sport-checkup/",
+        "evidence": "lePay. Privatpatienten erhalten wie gewohnt eine Rechnung über unseren Abrechnungspartner PVS. Warum erhalten Sie für das Labor eine seperate Rechnung? Die Blutentnahme erfolgt in unserer Praxis. Die Laboruntersuchung übernimmt jedoch unser Partner Labor28 in Potsdam und Berlin, welcher Ihnen im Anschluss an den Sport-Checkup eine seperate Rechnung zusendet. Welche Kosten übernimmt die Krankenkasse? Ein Sport-Chec",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJx2RT2Hz1pUcRVYBwplgMeUo",
+      "name": "Herr Prof. Dr. med. habil. Rüdiger Möricke",
+      "category": "DEXA",
+      "categories": [
+        "dexa"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": true,
+        "bone_density": true,
+        "blood_test_self_pay": false
+      },
+      "address": {
+        "street": "Johannes-Schlaf-Straße 35",
+        "postal_code": "39110",
+        "city": "Magdeburg-Stadtfeld West",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.130441999999995,
+        "lng": 11.5777399
+      },
+      "contact": {
+        "phone": "+49 391 7391531",
+        "website": "https://endokrinologie-moericke.de/"
+      },
+      "self_pay": null,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "https://endokrinologie-moericke.de/?s=leistungsspektrum&this=frame",
+      "verification": {
+        "verified": true,
+        "source_url": "https://endokrinologie-moericke.de/?s=leistungsspektrum&this=frame",
+        "evidence": "auflösender Ultraschall mit Farbdoppler u. Duplex zur Beurteilung von Schild- und Nebenschilddrüsen, der Nebennieren, Hoden sowie der Bauchorgane und Blutgefäße (Logiq P7 Premium) Osteodensitometrie (DEXA-Messung) WS, Hüfte, Radius, Gesamtkörper, LUNAR-iDXA Pro Strukturanalyse des trabekulären Knochens (Trabecular Bone Score) an der LWS Digitale Wirbelkörperhöhenvermessung (Laterales vertebrales Asses",
+        "note": null
+      }
+    },
+    {
+      "id": "ChIJ35Nd9dJTZUERexLWFhT1-bk",
+      "name": "Dipl.Med. Marita Aurich",
+      "category": "Blood Test",
+      "categories": [
+        "blood_lab"
+      ],
+      "provider_type": "practice",
+      "services": {
+        "body_composition": false,
+        "bone_density": true,
+        "blood_test_self_pay": true
+      },
+      "address": {
+        "street": "Domplatz 10",
+        "postal_code": "39104",
+        "city": "Magdeburg",
+        "country": "DE"
+      },
+      "coordinates": {
+        "lat": 52.126343,
+        "lng": 11.634255
+      },
+      "contact": {
+        "phone": "+49 391 56936400",
+        "website": "http://www.rheumatologie-magdeburg.de/"
+      },
+      "self_pay": true,
+      "prices": {
+        "publicly_available": false,
+        "note": null
+      },
+      "source_url": "http://www.rheumatologie-magdeburg.de/",
+      "verification": {
+        "verified": false,
+        "source_url": "http://www.rheumatologie-magdeburg.de/",
+        "evidence": "iner Praxis vorzustellen, um mögliche rheumatische oder klinisch immunologische Erkrankungen abklären zu lassen. Damit sich Ihre Kosten hierfür in Grenzen halten, empfiehlt es sich jedoch, notwendige Laboruntersuchungen vorab bei Ihrer Hausärztin oder Ihrem Hausarzt durchführen zu lassen. Sollten Sie einen Termin als Selbstzahler wünschen, kontaktieren Sie uns bitte vorab per Telefon mit dem Betreff „Selbstzahler“",
+        "note": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# The images only need api/, web/, docker/, requirements.txt and data/providers.json.
+.git/
+.venv/
+__pycache__/
+*.pyc
+web/node_modules/
+web/dist/
+data/raw/
+data/classified.json
+data/review.csv
+docs/
+pipeline/

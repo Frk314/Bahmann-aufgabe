@@ -1,0 +1,19 @@
+Copyright (c) 2026 Franck Andy Dzoupet Yimtchi. All rights reserved.
+
+This repository and all of its contents (source code, data, documentation)
+are provided solely for the purpose of evaluating the author's job
+application ("Coding Challenge: Laborsuche DACH").
+
+Permission is granted to use, copy and modify the contents for
+non-commercial purposes, provided that this copyright notice is kept.
+
+Selling the contents or any modified version, or using them in a commercial
+product or service, is not permitted without the prior written permission
+of the author.
+
+Third-party components keep their own licenses: the map frontend in web/
+was provided by a separate team, and map tiles are © OpenStreetMap
+contributors. Provider data was compiled from public sources (Google Places
+API, provider websites) and remains subject to the terms of those sources.
+
+THE CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
